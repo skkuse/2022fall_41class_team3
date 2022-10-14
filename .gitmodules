@@ -1,0 +1,6 @@
+[submodule "SWE_Frontend"]
+	path = SWE_Frontend
+	url = git@github.com:daniel2231/SWE_Frontend.git
+[submodule "SWE_Backend"]
+	path = SWE_Backend
+	url = git@github.com:daniel2231/SWE_Backend.git
